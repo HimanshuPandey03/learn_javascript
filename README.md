@@ -25,5 +25,6 @@ Welcome to my JavaScript Learning Repository! This repo documents my learning jo
 15. ✅ Switch Statements
 16. ✅ Iterators / Loops (for, while, do-while, forEach)
 17. ✅ DOM Manipulation (querySelector, events, styling, etc.)
+18. ✅ DOM topic is covered in one.html, two.html, three.html and four.html files. 
 
 ---
